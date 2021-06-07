@@ -1,3 +1,4 @@
+from flask import request
 from re import split
 from app import app
 from app.models.product import Product
